@@ -1,0 +1,5 @@
+(
+    save_location: Clipboard,
+    choice: Output(Some("HDMI-A-1")),
+    last_rectangle: None,
+)
