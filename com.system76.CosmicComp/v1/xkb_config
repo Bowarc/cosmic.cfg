@@ -3,7 +3,7 @@
     model: "",
     layout: "fr",
     variant: "",
-    options: None,
+    options: Some(",caps:escape"),
     repeat_delay: 300,
     repeat_rate: 35,
 )
